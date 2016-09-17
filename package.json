@@ -1,0 +1,13 @@
+{
+    "name": "udellgames.brackets-ink",
+    "title": "Brackets Ink",
+    "description": "Syntax highlighting for Inkle's Ink storytelling language.",
+    "homepage": "https://github.com/udellgames/brackets-ink",
+    "version": "0.1.0",
+    "author": "Nicholas Udell <nick@udellgames.com> (http://www.udellgames.com)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    },
+    "i18n": ["en"],
+}
